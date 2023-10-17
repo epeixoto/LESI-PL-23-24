@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\bin\Debug\net6.0\IntroductionCSharp.exe
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\bin\Debug\net6.0\IntroductionCSharp.deps.json
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\bin\Debug\net6.0\IntroductionCSharp.runtimeconfig.json
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\bin\Debug\net6.0\IntroductionCSharp.dll
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\bin\Debug\net6.0\IntroductionCSharp.pdb
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.dll
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\refint\IntroductionCSharp.dll
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.pdb
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\IntroductionCSharp.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\IntroductionCSharp\IntroductionCSharp\obj\Debug\net6.0\ref\IntroductionCSharp.dll
