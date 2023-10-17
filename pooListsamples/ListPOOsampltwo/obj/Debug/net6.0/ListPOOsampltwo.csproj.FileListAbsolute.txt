@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\bin\Debug\net6.0\ListPOOsampltwo.exe
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\bin\Debug\net6.0\ListPOOsampltwo.deps.json
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\bin\Debug\net6.0\ListPOOsampltwo.runtimeconfig.json
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\bin\Debug\net6.0\ListPOOsampltwo.dll
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\bin\Debug\net6.0\ListPOOsampltwo.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.dll
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\refint\ListPOOsampltwo.dll
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ListPOOsampltwo.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\pooListsamples\ListPOOsampltwo\obj\Debug\net6.0\ref\ListPOOsampltwo.dll

@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\bin\Debug\net6.0\listHeranca.exe
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\bin\Debug\net6.0\listHeranca.deps.json
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\bin\Debug\net6.0\listHeranca.runtimeconfig.json
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\bin\Debug\net6.0\listHeranca.dll
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\bin\Debug\net6.0\listHeranca.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.dll
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\refint\listHeranca.dll
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\listHeranca.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\pooListsamples\listHeranca\obj\Debug\net6.0\ref\listHeranca.dll

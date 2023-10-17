@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\bin\Debug\net6.0\pooListsamples.exe
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\bin\Debug\net6.0\pooListsamples.deps.json
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\bin\Debug\net6.0\pooListsamples.runtimeconfig.json
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\bin\Debug\net6.0\pooListsamples.dll
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\bin\Debug\net6.0\pooListsamples.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.dll
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\refint\pooListsamples.dll
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\pooListsamples.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\pooListsamples\pooListsamples\obj\Debug\net6.0\ref\pooListsamples.dll

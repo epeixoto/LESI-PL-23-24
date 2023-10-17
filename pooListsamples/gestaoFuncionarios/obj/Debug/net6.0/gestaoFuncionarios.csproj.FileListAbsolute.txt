@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\bin\Debug\net6.0\gestaoFuncionarios.exe
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\bin\Debug\net6.0\gestaoFuncionarios.deps.json
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\bin\Debug\net6.0\gestaoFuncionarios.runtimeconfig.json
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\bin\Debug\net6.0\gestaoFuncionarios.dll
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\bin\Debug\net6.0\gestaoFuncionarios.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.dll
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\refint\gestaoFuncionarios.dll
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.pdb
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\gestaoFuncionarios.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\pooListsamples\gestaoFuncionarios\obj\Debug\net6.0\ref\gestaoFuncionarios.dll
