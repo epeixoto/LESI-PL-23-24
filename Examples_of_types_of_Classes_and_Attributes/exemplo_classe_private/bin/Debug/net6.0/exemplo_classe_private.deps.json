@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exemplo_classe_private/1.0.0": {
+        "dependencies": {
+          "aminhaapp_Internal_testar": "1.0.0"
+        },
+        "runtime": {
+          "exemplo_classe_private.dll": {}
+        }
+      },
+      "aminhaapp_Internal_testar/1.0.0": {
+        "runtime": {
+          "aminhaapp_Internal_testar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo_classe_private/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aminhaapp_Internal_testar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

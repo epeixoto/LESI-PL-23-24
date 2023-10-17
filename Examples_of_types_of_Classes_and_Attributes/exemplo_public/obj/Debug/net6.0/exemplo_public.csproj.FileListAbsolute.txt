@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\bin\Debug\net6.0\exemplo_public.exe
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\bin\Debug\net6.0\exemplo_public.deps.json
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\bin\Debug\net6.0\exemplo_public.runtimeconfig.json
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\bin\Debug\net6.0\exemplo_public.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\bin\Debug\net6.0\exemplo_public.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\refint\exemplo_public.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\exemplo_public.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_public\obj\Debug\net6.0\ref\exemplo_public.dll

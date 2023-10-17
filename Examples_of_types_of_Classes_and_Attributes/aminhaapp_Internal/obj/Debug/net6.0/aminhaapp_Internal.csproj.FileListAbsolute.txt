@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\bin\Debug\net6.0\aminhaapp_Internal.exe
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\bin\Debug\net6.0\aminhaapp_Internal.deps.json
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\bin\Debug\net6.0\aminhaapp_Internal.runtimeconfig.json
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\bin\Debug\net6.0\aminhaapp_Internal.dll
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\bin\Debug\net6.0\aminhaapp_Internal.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.dll
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\refint\aminhaapp_Internal.dll
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\aminhaapp_Internal.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\exemplo_public\aminhaapp_Internal\obj\Debug\net6.0\ref\aminhaapp_Internal.dll

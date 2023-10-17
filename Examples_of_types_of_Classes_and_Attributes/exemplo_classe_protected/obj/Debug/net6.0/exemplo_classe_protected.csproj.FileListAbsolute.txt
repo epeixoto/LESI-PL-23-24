@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\bin\Debug\net6.0\exemplo_classe_protected.exe
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\bin\Debug\net6.0\exemplo_classe_protected.deps.json
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\bin\Debug\net6.0\exemplo_classe_protected.runtimeconfig.json
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\bin\Debug\net6.0\exemplo_classe_protected.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\bin\Debug\net6.0\exemplo_classe_protected.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\refint\exemplo_classe_protected.dll
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.pdb
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\exemplo_classe_protected.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\exemplo_public\exemplo_classe_protected\obj\Debug\net6.0\ref\exemplo_classe_protected.dll
