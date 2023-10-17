@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\bin\Debug\net6.0\listMaiorMenor.exe
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\bin\Debug\net6.0\listMaiorMenor.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\bin\Debug\net6.0\listMaiorMenor.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\bin\Debug\net6.0\listMaiorMenor.dll
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\bin\Debug\net6.0\listMaiorMenor.pdb
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.dll
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\refint\listMaiorMenor.dll
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.pdb
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\listMaiorMenor.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\listMaiorMenor\obj\Debug\net6.0\ref\listMaiorMenor.dll

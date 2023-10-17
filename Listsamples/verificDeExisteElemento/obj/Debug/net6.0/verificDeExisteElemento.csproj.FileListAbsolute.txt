@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\bin\Debug\net6.0\verificDeExisteElemento.exe
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\bin\Debug\net6.0\verificDeExisteElemento.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\bin\Debug\net6.0\verificDeExisteElemento.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\bin\Debug\net6.0\verificDeExisteElemento.dll
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\bin\Debug\net6.0\verificDeExisteElemento.pdb
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.dll
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\refint\verificDeExisteElemento.dll
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.pdb
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\verificDeExisteElemento.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\verificDeExisteElemento\obj\Debug\net6.0\ref\verificDeExisteElemento.dll

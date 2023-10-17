@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\removeList\bin\Debug\net6.0\removeList.exe
+C:\Users\Utilizador\source\repos\Listsamples\removeList\bin\Debug\net6.0\removeList.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\removeList\bin\Debug\net6.0\removeList.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\removeList\bin\Debug\net6.0\removeList.dll
+C:\Users\Utilizador\source\repos\Listsamples\removeList\bin\Debug\net6.0\removeList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.dll
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\refint\removeList.dll
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\removeList.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\removeList\obj\Debug\net6.0\ref\removeList.dll

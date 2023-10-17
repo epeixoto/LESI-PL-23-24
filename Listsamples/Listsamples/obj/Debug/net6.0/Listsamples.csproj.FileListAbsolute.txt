@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\bin\Debug\net6.0\Listsamples.exe
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\bin\Debug\net6.0\Listsamples.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\bin\Debug\net6.0\Listsamples.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\bin\Debug\net6.0\Listsamples.dll
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\bin\Debug\net6.0\Listsamples.pdb
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.dll
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\refint\Listsamples.dll
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.pdb
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\Listsamples.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\Listsamples\obj\Debug\net6.0\ref\Listsamples.dll

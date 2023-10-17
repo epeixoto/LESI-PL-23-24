@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\bin\Debug\net6.0\InverterElementosList.exe
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\bin\Debug\net6.0\InverterElementosList.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\bin\Debug\net6.0\InverterElementosList.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\bin\Debug\net6.0\InverterElementosList.dll
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\bin\Debug\net6.0\InverterElementosList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.dll
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\refint\InverterElementosList.dll
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\InverterElementosList.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\InverterElementosList\obj\Debug\net6.0\ref\InverterElementosList.dll

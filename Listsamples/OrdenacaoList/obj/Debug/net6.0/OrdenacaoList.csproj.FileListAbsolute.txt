@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\bin\Debug\net6.0\OrdenacaoList.exe
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\bin\Debug\net6.0\OrdenacaoList.deps.json
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\bin\Debug\net6.0\OrdenacaoList.runtimeconfig.json
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\bin\Debug\net6.0\OrdenacaoList.dll
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\bin\Debug\net6.0\OrdenacaoList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.dll
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\refint\OrdenacaoList.dll
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.pdb
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\OrdenacaoList.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\Listsamples\OrdenacaoList\obj\Debug\net6.0\ref\OrdenacaoList.dll
