@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\lojaOnline\bin\Debug\net6.0\lojaOnline.exe
+C:\Users\Utilizador\source\repos\lojaOnline\bin\Debug\net6.0\lojaOnline.deps.json
+C:\Users\Utilizador\source\repos\lojaOnline\bin\Debug\net6.0\lojaOnline.runtimeconfig.json
+C:\Users\Utilizador\source\repos\lojaOnline\bin\Debug\net6.0\lojaOnline.dll
+C:\Users\Utilizador\source\repos\lojaOnline\bin\Debug\net6.0\lojaOnline.pdb
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.dll
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\refint\lojaOnline.dll
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.pdb
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\lojaOnline.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\lojaOnline\obj\Debug\net6.0\ref\lojaOnline.dll

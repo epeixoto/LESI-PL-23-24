@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\poli\poli\bin\Debug\net6.0\poli.exe
+C:\Users\Utilizador\source\repos\poli\poli\bin\Debug\net6.0\poli.deps.json
+C:\Users\Utilizador\source\repos\poli\poli\bin\Debug\net6.0\poli.runtimeconfig.json
+C:\Users\Utilizador\source\repos\poli\poli\bin\Debug\net6.0\poli.dll
+C:\Users\Utilizador\source\repos\poli\poli\bin\Debug\net6.0\poli.pdb
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.dll
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\refint\poli.dll
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.pdb
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\poli.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\poli\poli\obj\Debug\net6.0\ref\poli.dll

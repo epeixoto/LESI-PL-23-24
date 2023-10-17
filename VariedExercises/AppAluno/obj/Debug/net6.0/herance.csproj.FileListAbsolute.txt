@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\herance\bin\Debug\net6.0\herance.exe
+C:\Users\Utilizador\source\repos\herance\bin\Debug\net6.0\herance.deps.json
+C:\Users\Utilizador\source\repos\herance\bin\Debug\net6.0\herance.runtimeconfig.json
+C:\Users\Utilizador\source\repos\herance\bin\Debug\net6.0\herance.dll
+C:\Users\Utilizador\source\repos\herance\bin\Debug\net6.0\herance.pdb
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.dll
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\refint\herance.dll
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.pdb
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\herance.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\herance\obj\Debug\net6.0\ref\herance.dll

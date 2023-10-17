@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\bin\Debug\net6.0\AppAviao.exe
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\bin\Debug\net6.0\AppAviao.deps.json
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\bin\Debug\net6.0\AppAviao.runtimeconfig.json
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\bin\Debug\net6.0\AppAviao.dll
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\bin\Debug\net6.0\AppAviao.pdb
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.dll
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\refint\AppAviao.dll
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.pdb
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\AppAviao.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\AppAviao\AppAviao\obj\Debug\net6.0\ref\AppAviao.dll
