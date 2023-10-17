@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\bin\Debug\net6.0\ConstructorsandEncapsulationV2.exe
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\bin\Debug\net6.0\ConstructorsandEncapsulationV2.deps.json
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\bin\Debug\net6.0\ConstructorsandEncapsulationV2.runtimeconfig.json
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\bin\Debug\net6.0\ConstructorsandEncapsulationV2.dll
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\bin\Debug\net6.0\ConstructorsandEncapsulationV2.pdb
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.dll
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\refint\ConstructorsandEncapsulationV2.dll
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.pdb
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ConstructorsandEncapsulationV2.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\LampClass\ConstructorsandEncapsulationV2\obj\Debug\net6.0\ref\ConstructorsandEncapsulationV2.dll

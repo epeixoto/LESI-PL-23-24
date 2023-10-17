@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\LampClass\LampClass\bin\Debug\net6.0\LampClass.exe
+C:\Users\Utilizador\source\repos\LampClass\LampClass\bin\Debug\net6.0\LampClass.deps.json
+C:\Users\Utilizador\source\repos\LampClass\LampClass\bin\Debug\net6.0\LampClass.runtimeconfig.json
+C:\Users\Utilizador\source\repos\LampClass\LampClass\bin\Debug\net6.0\LampClass.dll
+C:\Users\Utilizador\source\repos\LampClass\LampClass\bin\Debug\net6.0\LampClass.pdb
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.dll
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\refint\LampClass.dll
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.pdb
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\LampClass.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\LampClass\LampClass\obj\Debug\net6.0\ref\LampClass.dll
