@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0vgr/SZhCaAkyHsKv9t6k2U5xFNDaUdp8czk7z/wXs+QR+0vHqtI6hm/bwfeHHSQSQaaotIMWvKi/0T8BOB2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizador\\source\\repos\\SerializacaoCSV\\appCrud\\appCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

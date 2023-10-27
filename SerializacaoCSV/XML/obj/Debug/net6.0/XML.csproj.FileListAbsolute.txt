@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\bin\Debug\net6.0\XML.exe
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\bin\Debug\net6.0\XML.deps.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\bin\Debug\net6.0\XML.runtimeconfig.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\bin\Debug\net6.0\XML.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\bin\Debug\net6.0\XML.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\refint\XML.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\XML.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\XML\obj\Debug\net6.0\ref\XML.dll

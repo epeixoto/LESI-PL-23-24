@@ -1,0 +1,17 @@
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\appCrud.exe
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\appCrud.deps.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\appCrud.runtimeconfig.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\appCrud.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\appCrud.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.csproj.CopyComplete
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\refint\appCrud.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\appCrud.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\appCrud\obj\Debug\net6.0\ref\appCrud.dll

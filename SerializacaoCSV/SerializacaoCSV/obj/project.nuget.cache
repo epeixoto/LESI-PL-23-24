@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8q8j+caKljrrahSC3EMIUhd0h5rEpi/qGzyESMa7bYYJiFE6qL4mttKfxR3+KnQuW4T1hpbKVEf2CS0kqR1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizador\\source\\repos\\SerializacaoCSV\\SerializacaoCSV\\SerializacaoCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

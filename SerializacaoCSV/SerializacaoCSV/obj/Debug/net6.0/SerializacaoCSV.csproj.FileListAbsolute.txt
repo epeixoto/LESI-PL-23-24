@@ -1,0 +1,17 @@
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\SerializacaoCSV.exe
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\SerializacaoCSV.deps.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\SerializacaoCSV.runtimeconfig.json
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\SerializacaoCSV.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\SerializacaoCSV.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.csproj.CopyComplete
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\refint\SerializacaoCSV.dll
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.pdb
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\SerializacaoCSV.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\SerializacaoCSV\SerializacaoCSV\obj\Debug\net6.0\ref\SerializacaoCSV.dll
