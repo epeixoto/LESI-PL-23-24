@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Af/yTjExUjYTJbEVXKS2n4CAbIC2iRY4YvzkCQS5+rpCteER+D6PLVvXgCeFFggnTNK7N3qEuDeYdQHEUx2irA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilizador\\source\\repos\\1exemplodecamadas\\1exemplodecamadas\\1exemplodecamadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

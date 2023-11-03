@@ -1,0 +1,17 @@
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\1exemplodecamadas.exe
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\1exemplodecamadas.deps.json
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\1exemplodecamadas.runtimeconfig.json
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\1exemplodecamadas.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\1exemplodecamadas.pdb
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.csproj.CopyComplete
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\refint\1exemplodecamadas.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.pdb
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\1exemplodecamadas.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\1exemplodecamadas\obj\Debug\net6.0\ref\1exemplodecamadas.dll

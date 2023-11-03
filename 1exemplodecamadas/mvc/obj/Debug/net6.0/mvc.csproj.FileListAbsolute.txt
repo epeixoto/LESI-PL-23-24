@@ -1,0 +1,14 @@
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\bin\Debug\net6.0\mvc.exe
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\bin\Debug\net6.0\mvc.deps.json
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\bin\Debug\net6.0\mvc.runtimeconfig.json
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\bin\Debug\net6.0\mvc.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\bin\Debug\net6.0\mvc.pdb
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\refint\mvc.dll
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.pdb
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\mvc.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\1exemplodecamadas\mvc\obj\Debug\net6.0\ref\mvc.dll
