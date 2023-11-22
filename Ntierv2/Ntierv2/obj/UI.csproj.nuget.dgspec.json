@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Ntierv2\\UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Ntierv2\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Ntierv2\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Ntierv2\\UI.csproj",
+        "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Ntierv2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaBLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaBLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaBLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaBLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaBLL\\BLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj"
+              },
+              "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaDAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaDAL\\DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaDAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaDAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\PessoaDAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Ntierv2\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

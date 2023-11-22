@@ -1,0 +1,9 @@
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\bin\Debug\PessoaDAL.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\bin\Debug\PessoaDAL.pdb
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\bin\Debug\Model.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\bin\Debug\Model.pdb
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\PessoaDAL.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\PessoaDAL.pdb

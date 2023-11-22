@@ -1,0 +1,6 @@
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\bin\Debug\Model.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\bin\Debug\Model.pdb
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\obj\Debug\Model.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\Model\obj\Debug\Model.pdb

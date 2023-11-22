@@ -1,0 +1,9 @@
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\bin\Debug\PessoaBLL.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\bin\Debug\PessoaBLL.pdb
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\bin\Debug\Model.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\bin\Debug\Model.pdb
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\obj\Debug\PessoaBLL.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\obj\Debug\PessoaBLL.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\obj\Debug\PessoaBLL.csproj.CopyComplete
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\obj\Debug\PessoaBLL.dll
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaBLL\obj\Debug\PessoaBLL.pdb

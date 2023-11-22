@@ -1,0 +1,2 @@
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\PessoaDAL.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Ntierv2\PessoaDAL\obj\Debug\PessoaDAL.csproj.CoreCompileInputs.cache
