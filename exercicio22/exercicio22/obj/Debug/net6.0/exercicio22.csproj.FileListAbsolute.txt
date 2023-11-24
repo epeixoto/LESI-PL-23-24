@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\bin\Debug\net6.0\exercicio22.exe
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\bin\Debug\net6.0\exercicio22.deps.json
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\bin\Debug\net6.0\exercicio22.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\bin\Debug\net6.0\exercicio22.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\bin\Debug\net6.0\exercicio22.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\refint\exercicio22.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\exercicio22.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio22\exercicio22\obj\Debug\net6.0\ref\exercicio22.dll

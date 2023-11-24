@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\bin\Debug\net6.0\exercicio12.exe
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\bin\Debug\net6.0\exercicio12.deps.json
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\bin\Debug\net6.0\exercicio12.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\bin\Debug\net6.0\exercicio12.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\bin\Debug\net6.0\exercicio12.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\refint\exercicio12.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\exercicio12.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio12\exercicio12\obj\Debug\net6.0\ref\exercicio12.dll

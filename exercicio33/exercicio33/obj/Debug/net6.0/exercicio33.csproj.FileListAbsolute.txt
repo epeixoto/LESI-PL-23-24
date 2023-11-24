@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\bin\Debug\net6.0\exercicio33.exe
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\bin\Debug\net6.0\exercicio33.deps.json
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\bin\Debug\net6.0\exercicio33.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\bin\Debug\net6.0\exercicio33.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\bin\Debug\net6.0\exercicio33.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\refint\exercicio33.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\exercicio33.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio33\exercicio33\obj\Debug\net6.0\ref\exercicio33.dll

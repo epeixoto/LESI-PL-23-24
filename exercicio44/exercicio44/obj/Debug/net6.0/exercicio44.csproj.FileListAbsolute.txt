@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\bin\Debug\net6.0\exercicio44.exe
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\bin\Debug\net6.0\exercicio44.deps.json
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\bin\Debug\net6.0\exercicio44.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\bin\Debug\net6.0\exercicio44.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\bin\Debug\net6.0\exercicio44.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\refint\exercicio44.dll
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.pdb
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\exercicio44.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\exercicio44\exercicio44\obj\Debug\net6.0\ref\exercicio44.dll
