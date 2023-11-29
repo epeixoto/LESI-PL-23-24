@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\bin\Debug\net6.0\listasExemplos.exe
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\bin\Debug\net6.0\listasExemplos.deps.json
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\bin\Debug\net6.0\listasExemplos.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\bin\Debug\net6.0\listasExemplos.dll
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\bin\Debug\net6.0\listasExemplos.pdb
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.dll
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\refint\listasExemplos.dll
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.pdb
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\listasExemplos.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\listasExemplos\listasExemplos\obj\Debug\net6.0\ref\listasExemplos.dll
